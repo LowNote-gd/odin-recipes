@@ -10,3 +10,11 @@
     text-align: center;
     border: solid black;
 }
+
+li {
+    box-sizing: border-box;
+    width: 150px;
+    text-align: center;
+    margin: 10px auto;
+    background-color: rgb(189, 255, 233);
+}
