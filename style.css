@@ -1,0 +1,12 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.topic {
+    box-sizing: border-box;
+    width: 300px;
+    text-align: center;
+    border: solid black;
+}
